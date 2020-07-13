@@ -1,0 +1,11 @@
+{
+    "Token":"Bot BOTTOKENHERE",
+    "Prefix":">",
+
+    "ServerIP":"127.0.0.1",
+    "ServerPort":"30120",
+
+    "_RCONPASS":"changeme1234",
+    "_RESOURCENAME":"http-discord-bot",
+    "_ENDPOINT":"/"
+}
