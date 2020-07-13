@@ -15,9 +15,9 @@ Config._RCONCOMMANDS = {
                 local Reason = "No reason specified"
                 if Args[2] then
                     Reason = table.concat(Args, " ", 2)
-
-                    DropPlayer(tonumber(Args[1]), Reason)
                 end
+
+                DropPlayer(tonumber(Args[1]), Reason)
             end 
         end
     end
